@@ -233,12 +233,11 @@ public class StudentManagementSystem {
 
 
 
-# Output
+// Output for given code is below 
 
+![Screenshot (25)](https://github.com/prempanchal0501/Java-Assignment-/assets/158481229/f31a77ba-8f65-4197-9fbc-40d41b48fefb)
 
-
-
-
+![Screenshot (26)](https://github.com/prempanchal0501/Java-Assignment-/assets/158481229/3d8e55de-d5d7-48c8-8ff6-305518ca6c1a)
 
 
 
